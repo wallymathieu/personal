@@ -4,4 +4,4 @@ Simple landing page for wallymathieu.
 
 ## View locally
 
-Open `/tmp/workspace/wallymathieu/personal/index.html` in a browser.
+Open `index.html` in a browser from the repository root.
